@@ -1,0 +1,15 @@
+{
+  "name": "excel_reader",
+  "module": "src/index.ts",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "type": "module",
+  "dependencies": {
+    "read-excel-file": "^5.8.6",
+    "write-excel-file": "^2.0.10"
+  }
+}

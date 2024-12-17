@@ -1,0 +1,860 @@
+{
+    "Cliente": 601286,
+    "Nome": "BMD SRL",
+    "Lavoro": "QUADRO",
+    "Totale": null,
+    "Costo cavi": 2800,
+    "Costo materiale": 4327.799,
+    "Vendita quadro": 8375,
+    "Valore": 1247.2009999999998,
+  }
+  {
+    "Cliente": 35325,
+    "Nome": "ALFREDO CECCHINI SRL",
+    "Lavoro": "POSTE CASILINA BAR",
+    "Totale": null,
+    "Costo cavi": 630,
+    "Costo materiale": 1308.433,
+    "Vendita quadro": 2600,
+    "Valore": 661.567,
+  }
+  {
+    "Cliente": 35325,
+    "Nome": "ALFREDO CECCHINI SRL",
+    "Lavoro": "SAN CAMILLO",
+    "Totale": null,
+    "Costo cavi": 4070,
+    "Costo materiale": 8005.999,
+    "Vendita quadro": 13320,
+    "Valore": 1244.0010000000002,
+  }
+  {
+    "Cliente": 561597,
+    "Nome": "D.S.P. IMPIANTI SRL",
+    "Lavoro": "OFFICINA",
+    "Totale": null,
+    "Costo cavi": 500,
+    "Costo materiale": 1455.18,
+    "Vendita quadro": 2249,
+    "Valore": 293.81999999999994,
+  }
+  {
+    "Cliente": 603021,
+    "Nome": "EFFE ERRE S.R.L.",
+    "Lavoro": "CENTRALE BIOMASSA",
+    "Totale": null,
+    "Costo cavi": 2413,
+    "Costo materiale": 6085.898,
+    "Vendita quadro": 10902,
+    "Valore": 2403.101999999999,
+  }
+  {
+    "Cliente": 579645,
+    "Nome": "FEA COSTRUZIONI SRL",
+    "Lavoro": "VARIO",
+    "Totale": null,
+    "Costo cavi": 20,
+    "Costo materiale": 188.81,
+    "Vendita quadro": 240,
+    "Valore": 31.189999999999998,
+  }
+  {
+    "Cliente": 603708,
+    "Nome": "G.INTECH INNOVATIONS & TECHNOLOGIES S.R.L.",
+    "Lavoro": "FIESOLE",
+    "Totale": null,
+    "Costo cavi": 4740,
+    "Costo materiale": 15515.279999999999,
+    "Vendita quadro": 24000,
+    "Valore": 3744.720000000001,
+  }
+  {
+    "Cliente": 621337,
+    "Nome": "#ERROR_#N/A",
+    "Lavoro": "QUADRO AUX",
+    "Totale": null,
+    "Costo cavi": 2880,
+    "Costo materiale": 3582.662,
+    "Vendita quadro": 7459,
+    "Valore": 996.3379999999997,
+  }
+  {
+    "Cliente": 585449,
+    "Nome": "ICR IMPIANTI E COSTRUZIONI SRL",
+    "Lavoro": "COMM 792.5",
+    "Totale": null,
+    "Costo cavi": 1250,
+    "Costo materiale": 3733.85,
+    "Vendita quadro": 5950,
+    "Valore": 966.1499999999996,
+  }
+  {
+    "Cliente": 614183,
+    "Nome": "IMPRENDO ITALIA COSTRUZIONI GENERALI SRL",
+    "Lavoro": "POSTE GILDONE",
+    "Totale": null,
+    "Costo cavi": 1050,
+    "Costo materiale": 3105.63,
+    "Vendita quadro": 4901,
+    "Valore": 745.3700000000001,
+  }
+  {
+    "Cliente": 586762,
+    "Nome": "#ERROR_#N/A",
+    "Lavoro": 0,
+    "Totale": null,
+    "Costo cavi": 330,
+    "Costo materiale": 1041.654,
+    "Vendita quadro": 1730,
+    "Valore": 358.346,
+  }
+  {
+    "Cliente": 156752,
+    "Nome": "#ERROR_#N/A",
+    "Lavoro": "PETROL GAMMA",
+    "Totale": null,
+    "Costo cavi": 200,
+    "Costo materiale": 509.64,
+    "Vendita quadro": 962,
+    "Valore": 252.36,
+  }
+  {
+    "Cliente": 156752,
+    "Nome": "#ERROR_#N/A",
+    "Lavoro": "Q8 VITINIA",
+    "Totale": null,
+    "Costo cavi": 1680,
+    "Costo materiale": 3807.762,
+    "Vendita quadro": 6860,
+    "Valore": 1372.238,
+  }
+  {
+    "Cliente": 549233,
+    "Nome": "MARTINO  SRL",
+    "Lavoro": "TELESPAZIO",
+    "Totale": null,
+    "Costo cavi": 350,
+    "Costo materiale": 937.331,
+    "Vendita quadro": 1901,
+    "Valore": 613.6689999999999,
+  }
+  {
+    "Cliente": 611483,
+    "Nome": "METAL SYSTEM ROMA S.R.L.",
+    "Lavoro": "CAMPOBELLO 1",
+    "Totale": null,
+    "Costo cavi": 1600,
+    "Costo materiale": 3969.1099999999997,
+    "Vendita quadro": 6825,
+    "Valore": 1255.89,
+  }
+  {
+    "Cliente": 625707,
+    "Nome": "#ERROR_#N/A",
+    "Lavoro": "CONDOMINIO",
+    "Totale": null,
+    "Costo cavi": 1830,
+    "Costo materiale": 5046.380999999999,
+    "Vendita quadro": 8705,
+    "Valore": 1828.6190000000001,
+  }
+  {
+    "Cliente": 626610,
+    "Nome": "#ERROR_#N/A",
+    "Lavoro": "MODIFICA QE",
+    "Totale": null,
+    "Costo cavi": 250,
+    "Costo materiale": 921.45,
+    "Vendita quadro": 1750,
+    "Valore": 578.55,
+  }
+  {
+    "Cliente": 571869,
+    "Nome": "P-TECH SRL",
+    "Lavoro": "SAN FILIPPO NERI",
+    "Totale": null,
+    "Costo cavi": 1500,
+    "Costo materiale": 4865.89,
+    "Vendita quadro": 8000,
+    "Valore": 1634.1099999999997,
+  }
+  {
+    "Cliente": 607522,
+    "Nome": "SAN RAFFAELE ROMA SRL - PISANA",
+    "Lavoro": "PISANA",
+    "Totale": null,
+    "Costo cavi": 3400,
+    "Costo materiale": 11791.073,
+    "Vendita quadro": 20001,
+    "Valore": 4809.927,
+  }
+  {
+    "Cliente": 618505,
+    "Nome": "#ERROR_#N/A",
+    "Lavoro": "ORTOLANDA",
+    "Totale": null,
+    "Costo cavi": 1500,
+    "Costo materiale": 4578.897,
+    "Vendita quadro": 7701,
+    "Valore": 1622.1029999999996,
+  }
+  {
+    "Cliente": 609237,
+    "Nome": "SELEKTRA ITALIA SRL",
+    "Lavoro": "ENAV CIAMPINO",
+    "Totale": null,
+    "Costo cavi": 1250,
+    "Costo materiale": 1824.024,
+    "Vendita quadro": 4064,
+    "Valore": 989.9759999999999,
+  }
+  {
+    "Cliente": 609237,
+    "Nome": "SELEKTRA ITALIA SRL",
+    "Lavoro": "QUADRO APPARATI",
+    "Totale": null,
+    "Costo cavi": 150,
+    "Costo materiale": 449.491,
+    "Vendita quadro": 840,
+    "Valore": 240.50900000000001,
+  }
+  {
+    "Cliente": 626377,
+    "Nome": "#ERROR_#N/A",
+    "Lavoro": "QUADRO ALLARMI",
+    "Totale": null,
+    "Costo cavi": 1000,
+    "Costo materiale": 991.841,
+    "Vendita quadro": 2680,
+    "Valore": 688.1590000000001,
+  }
+  {
+    "Cliente": 626377,
+    "Nome": "#ERROR_#N/A",
+    "Lavoro": "QUADRO ALLARMI",
+    "Totale": null,
+    "Costo cavi": 900,
+    "Costo materiale": 874.563,
+    "Vendita quadro": 2380,
+    "Valore": 605.4369999999999,
+  }
+  {
+    "Cliente": 568854,
+    "Nome": "SUSTECH S.R.L.",
+    "Lavoro": "FTV",
+    "Totale": null,
+    "Costo cavi": 6650,
+    "Costo materiale": 14524.58,
+    "Vendita quadro": 24499,
+    "Valore": 3324.4199999999983,
+  }
+  {
+    "Cliente": 584498,
+    "Nome": "ZP ELETTRONICA SRL",
+    "Lavoro": "FORO ROMANO",
+    "Totale": null,
+    "Costo cavi": 2200,
+    "Costo materiale": 5912.468,
+    "Vendita quadro": 9301,
+    "Valore": 1188.5320000000006,
+  }
+  {
+    "Cliente": 584498,
+    "Nome": "ZP ELETTRONICA SRL",
+    "Lavoro": "TEATRO",
+    "Totale": null,
+    "Costo cavi": 9114,
+    "Costo materiale": 26972.965999999997,
+    "Vendita quadro": 41999,
+    "Valore": 5912.034000000001,
+  }
+  {
+    "Cliente": 45575,
+    "Nome": "ARGELATO SRL",
+    "Lavoro": "SNAM AQ",
+    "Totale": null,
+    "Costo cavi": 11500,
+    "Costo materiale": 20252.099999999995,
+    "Vendita quadro": 41640,
+    "Valore": 9887.900000000003,
+  }
+  {
+    "Cliente": 625707,
+    "Nome": "#ERROR_#N/A",
+    "Lavoro": "CONDOMINIO",
+    "Totale": null,
+    "Costo cavi": 1600,
+    "Costo materiale": 5935.9800000000005,
+    "Vendita quadro": "#ERROR_#VALUE!",
+    "Valore": "#ERROR_#VALUE!",
+  }
+  {
+    "Cliente": 584498,
+    "Nome": "ZP ELETTRONICA SRL",
+    "Lavoro": "VILLINO RIVALDI",
+    "Totale": null,
+    "Costo cavi": 3000,
+    "Costo materiale": 8384.222,
+    "Vendita quadro": 15000,
+    "Valore": 3615.7780000000002,
+  }
+  {
+    "Cliente": 584498,
+    "Nome": "ZP ELETTRONICA SRL",
+    "Lavoro": "TEATRO",
+    "Totale": null,
+    "Costo cavi": 9114,
+    "Costo materiale": 25112.434,
+    "Vendita quadro": 41999,
+    "Valore": 7772.565999999997,
+  }
+  {
+    "Cliente": 608127,
+    "Nome": "3A COSTRUZIONI SRL",
+    "Lavoro": "AUTOSTRADE DT3",
+    "Totale": null,
+    "Costo cavi": 1000,
+    "Costo materiale": 2034.67,
+    "Vendita quadro": 3959,
+    "Valore": 924.3299999999999,
+  }
+  {
+    "Cliente": 580336,
+    "Nome": "3C TECNOLOGIE S.R.L.",
+    "Lavoro": "SIEMENS",
+    "Totale": null,
+    "Costo cavi": 1760,
+    "Costo materiale": 0,
+    "Vendita quadro": 2024,
+    "Valore": 264,
+  }
+  {
+    "Cliente": 605823,
+    "Nome": "ALTINTECH SRL",
+    "Lavoro": "ALMAVIVA",
+    "Totale": null,
+    "Costo cavi": 1900,
+    "Costo materiale": 6484.206,
+    "Vendita quadro": 9872,
+    "Valore": 1487.7940000000008,
+  }
+  {
+    "Cliente": 605823,
+    "Nome": "ALTINTECH SRL",
+    "Lavoro": "ALMAVIVA",
+    "Totale": null,
+    "Costo cavi": 1700,
+    "Costo materiale": 6484.206,
+    "Vendita quadro": 9600,
+    "Valore": 1415.7940000000008,
+  }
+  {
+    "Cliente": 584800,
+    "Nome": "BE-NEXT SRL",
+    "Lavoro": "SCONOSCIUTO",
+    "Totale": null,
+    "Costo cavi": 500,
+    "Costo materiale": 1069.625,
+    "Vendita quadro": 2000,
+    "Valore": 430.375,
+  }
+  {
+    "Cliente": 41213,
+    "Nome": "BELFIORE LAVORI SRL",
+    "Lavoro": "SGR",
+    "Totale": null,
+    "Costo cavi": 600,
+    "Costo materiale": 1301.902,
+    "Vendita quadro": 2301,
+    "Valore": 399.09799999999996,
+  }
+  {
+    "Cliente": 46926,
+    "Nome": "BELLI SRL",
+    "Lavoro": "ABB",
+    "Totale": null,
+    "Costo cavi": 2460,
+    "Costo materiale": 0,
+    "Vendita quadro": 2828,
+    "Valore": 368,
+  }
+  {
+    "Cliente": 46926,
+    "Nome": "BELLI SRL",
+    "Lavoro": "CASTEL GANDOLFO",
+    "Totale": null,
+    "Costo cavi": 9700,
+    "Costo materiale": 18043.896999999997,
+    "Vendita quadro": 31774,
+    "Valore": 4030.1030000000005,
+  }
+  {
+    "Cliente": 46926,
+    "Nome": "BELLI SRL",
+    "Lavoro": "COMMESSA 381",
+    "Totale": null,
+    "Costo cavi": 35755,
+    "Costo materiale": 76170.336,
+    "Vendita quadro": 133896,
+    "Valore": 21970.663999999997,
+  }
+  {
+    "Cliente": 607716,
+    "Nome": "CABLECOM SRL",
+    "Lavoro": "ORIOLO 2",
+    "Totale": null,
+    "Costo cavi": 750,
+    "Costo materiale": 1034.095,
+    "Vendita quadro": 2250,
+    "Valore": 465.905,
+  }
+  {
+    "Cliente": 607716,
+    "Nome": "CABLECOM SRL",
+    "Lavoro": "TELECOM ORIOLO",
+    "Totale": null,
+    "Costo cavi": 1850,
+    "Costo materiale": 3899.33,
+    "Vendita quadro": 6527,
+    "Valore": 777.6700000000001,
+  }
+  {
+    "Cliente": 35325,
+    "Nome": "ALFREDO CECCHINI SRL",
+    "Lavoro": "POSTE",
+    "Totale": null,
+    "Costo cavi": 960,
+    "Costo materiale": 3342.505,
+    "Vendita quadro": 5200,
+    "Valore": 897.4949999999999,
+  }
+  {
+    "Cliente": 35325,
+    "Nome": "ALFREDO CECCHINI SRL",
+    "Lavoro": "PUDDU",
+    "Totale": null,
+    "Costo cavi": 4000,
+    "Costo materiale": 9841.992,
+    "Vendita quadro": 15758,
+    "Valore": 1916.0079999999998,
+  }
+  {
+    "Cliente": 35325,
+    "Nome": "ALFREDO CECCHINI SRL",
+    "Lavoro": "SAN CAMILLO",
+    "Totale": null,
+    "Costo cavi": 900,
+    "Costo materiale": 542.207,
+    "Vendita quadro": 1687,
+    "Valore": 244.79300000000012,
+  }
+  {
+    "Cliente": 620767,
+    "Nome": "#ERROR_#N/A",
+    "Lavoro": "POLIAMBULATORIO "Nome"NTANO",
+    "Totale": null,
+    "Costo cavi": 5800,
+    "Costo materiale": 15687.242999999999,
+    "Vendita quadro": 25000,
+    "Valore": 3512.7570000000005,
+  }
+  {
+    "Cliente": 525787,
+    "Nome": "DEAL IMPIANTI SRL",
+    "Lavoro": "CASERMA",
+    "Totale": null,
+    "Costo cavi": 2200,
+    "Costo materiale": 5167.924,
+    "Vendita quadro": 9969,
+    "Valore": 2601.0760000000005,
+  }
+  {
+    "Cliente": 525787,
+    "Nome": "DEAL IMPIANTI SRL",
+    "Lavoro": "CASERMA",
+    "Totale": null,
+    "Costo cavi": 2200,
+    "Costo materiale": 4955.406,
+    "Vendita quadro": 9730,
+    "Valore": 2574.5940000000005,
+  }
+  {
+    "Cliente": 614680,
+    "Nome": "EASY TECH IMPIANTI ELETTRICI SRLS",
+    "Lavoro": "PALESTRA",
+    "Totale": null,
+    "Costo cavi": 600,
+    "Costo materiale": 867.976,
+    "Vendita quadro": 2336,
+    "Valore": 868.0239999999999,
+  }
+  {
+    "Cliente": 614680,
+    "Nome": "EASY TECH IMPIANTI ELETTRICI SRLS",
+    "Lavoro": "QUADRO",
+    "Totale": null,
+    "Costo cavi": 600,
+    "Costo materiale": 1459.64,
+    "Vendita quadro": 2500,
+    "Valore": 440.3599999999997,
+  }
+  {
+    "Cliente": 614680,
+    "Nome": "EASY TECH IMPIANTI ELETTRICI SRLS",
+    "Lavoro": "QUADRO",
+    "Totale": null,
+    "Costo cavi": 600,
+    "Costo materiale": 1335.746,
+    "Vendita quadro": 2501,
+    "Valore": 565.2539999999999,
+  }
+  {
+    "Cliente": 542319,
+    "Nome": "E.D.I.IMPIANTI DI DOMENICO INNAMORA TI",
+    "Lavoro": "VILLA MUIR",
+    "Totale": null,
+    "Costo cavi": 5100,
+    "Costo materiale": 11350.731,
+    "Vendita quadro": 20841,
+    "Valore": 4390.269,
+  }
+  {
+    "Cliente": 619745,
+    "Nome": "#ERROR_#N/A",
+    "Lavoro": "VALLE AURELIA",
+    "Totale": null,
+    "Costo cavi": 1800,
+    "Costo materiale": 6378.339,
+    "Vendita quadro": 9791,
+    "Valore": 1612.661,
+  }
+  {
+    "Cliente": 619745,
+    "Nome": "#ERROR_#N/A",
+    "Lavoro": "EDISON NEXT",
+    "Totale": null,
+    "Costo cavi": 4750,
+    "Costo materiale": 10399.889,
+    "Vendita quadro": 18001,
+    "Valore": 2851.111,
+  }
+  {
+    "Cliente": 617164,
+    "Nome": "#ERROR_#N/A",
+    "Lavoro": "NATO VIA LA STORTA",
+    "Totale": null,
+    "Costo cavi": 600,
+    "Costo materiale": 809.278,
+    "Vendita quadro": 2000,
+    "Valore": 590.722,
+  }
+  {
+    "Cliente": 43906,
+    "Nome": "ELETTROTECNICA IMPIANTI S.R.L.",
+    "Lavoro": "SAN DOMENICO",
+    "Totale": null,
+    "Costo cavi": 6350,
+    "Costo materiale": 14389.104,
+    "Vendita quadro": 24002,
+    "Valore": 3262.896000000001,
+  }
+  {
+    "Cliente": 35383,
+    "Nome": "ELECTRIC SYSTEMS AUTOMATION S.R.L.",
+    "Lavoro": "P&G REPARTO C.C.",
+    "Totale": null,
+    "Costo cavi": 2300,
+    "Costo materiale": 4432.441,
+    "Vendita quadro": 8000,
+    "Valore": 1267.5590000000002,
+  }
+  {
+    "Cliente": 624239,
+    "Nome": "#ERROR_#N/A",
+    "Lavoro": "TORRI FARO",
+    "Totale": null,
+    "Costo cavi": 300,
+    "Costo materiale": 601.086,
+    "Vendita quadro": 1350,
+    "Valore": 448.914,
+  }
+  {
+    "Cliente": 558619,
+    "Nome": "G.I.GENERAL IMPIANTI S.R.L.",
+    "Lavoro": "CECCHIGNOLA",
+    "Totale": null,
+    "Costo cavi": 2550,
+    "Costo materiale": 1,
+    "Vendita quadro": 2933,
+    "Valore": 382,
+  }
+  {
+    "Cliente": 621337,
+    "Nome": "#ERROR_#N/A",
+    "Lavoro": "ALESSANDRIA",
+    "Totale": null,
+    "Costo cavi": 1500,
+    "Costo materiale": 4224.965999999999,
+    "Vendita quadro": 6807,
+    "Valore": 1082.034,
+  }
+  {
+    "Cliente": 616070,
+    "Nome": "#ERROR_#N/A",
+    "Lavoro": "AMBASCIATA DI SPAGNA",
+    "Totale": null,
+    "Costo cavi": 1695,
+    "Costo materiale": 3067.112,
+    "Vendita quadro": 5999,
+    "Valore": 1236.888,
+  }
+  {
+    "Cliente": 614183,
+    "Nome": "IMPRENDO ITALIA COSTRUZIONI GENERALI SRL",
+    "Lavoro": "DEROSSI",
+    "Totale": null,
+    "Costo cavi": 3000,
+    "Costo materiale": 3853.659,
+    "Vendita quadro": 8499,
+    "Valore": 1645.3410000000003,
+  }
+  {
+    "Cliente": 614183,
+    "Nome": "IMPRENDO ITALIA COSTRUZIONI GENERALI SRL",
+    "Lavoro": "DEROSSI",
+    "Totale": null,
+    "Costo cavi": 3000,
+    "Costo materiale": 3927.15,
+    "Vendita quadro": 8580,
+    "Valore": 1652.8500000000004,
+  }
+  {
+    "Cliente": 609372,
+    "Nome": "TECNOFUSCO S.R.L.S.",
+    "Lavoro": "MERYMONT",
+    "Totale": null,
+    "Costo cavi": 4725,
+    "Costo materiale": 8209.636,
+    "Vendita quadro": 14729,
+    "Valore": 1794.3640000000003,
+  }
+  {
+    "Cliente": 46208,
+    "Nome": "JUCCI ELETTROILLUMINOTECNICA SNC",
+    "Lavoro": "NEGOZIO",
+    "Totale": null,
+    "Costo cavi": 850,
+    "Costo materiale": 1960.195,
+    "Vendita quadro": 3200,
+    "Valore": 389.8050000000003,
+  }
+  {
+    "Cliente": 156752,
+    "Nome": "MARES",
+    "Lavoro": "COMUNE DI CARRARA",
+    "Totale": null,
+    "Costo cavi": 4610,
+    "Costo materiale": 0,
+    "Vendita quadro": 5345,
+    "Valore": 735,
+  }
+  {
+    "Cliente": 156752,
+    "Nome": "#ERROR_#N/A",
+    "Lavoro": "GPL CIVITAVECCHIA",
+    "Totale": null,
+    "Costo cavi": 1800,
+    "Costo materiale": 2013.857,
+    "Vendita quadro": 4700,
+    "Valore": 886.143,
+  }
+  {
+    "Cliente": 549233,
+    "Nome": "MARTINO  SRL",
+    "Lavoro": "SOLARE TERMICO FUCINO",
+    "Totale": null,
+    "Costo cavi": 500,
+    "Costo materiale": 738.81,
+    "Vendita quadro": 1680,
+    "Valore": 441.19000000000005,
+  }
+  {
+    "Cliente": 571666,
+    "Nome": "#ERROR_#N/A",
+    "Lavoro": "SIAE",
+    "Totale": null,
+    "Costo cavi": 1100,
+    "Costo materiale": 2511.865,
+    "Vendita quadro": 4850,
+    "Valore": 1238.1350000000002,
+  }
+  {
+    "Cliente": 624291,
+    "Nome": "#ERROR_#N/A",
+    "Lavoro": "VILLA SALARIA",
+    "Totale": null,
+    "Costo cavi": 1500,
+    "Costo materiale": 4124.513,
+    "Vendita quadro": 6500,
+    "Valore": 875.4870000000001,
+  }
+  {
+    "Cliente": 622407,
+    "Nome": "#ERROR_#N/A",
+    "Lavoro": "CENTRO COMMERCIALE STAZIONE TERMINI",
+    "Totale": null,
+    "Costo cavi": 600,
+    "Costo materiale": 1974.962,
+    "Vendita quadro": 3021,
+    "Valore": 446.038,
+  }
+  {
+    "Cliente": 622407,
+    "Nome": "#ERROR_#N/A",
+    "Lavoro": "CENTRO COMMERCIALE STAZIONE TERMINI",
+    "Totale": null,
+    "Costo cavi": 600,
+    "Costo materiale": 1842.057,
+    "Vendita quadro": 2902,
+    "Valore": 459.9430000000002,
+  }
+  {
+    "Cliente": 624239,
+    "Nome": "#ERROR_#N/A",
+    "Lavoro": "TORRI FARO",
+    "Totale": null,
+    "Costo cavi": 300,
+    "Costo materiale": 601.086,
+    "Vendita quadro": 1350,
+    "Valore": 448.914,
+  }
+  {
+    "Cliente": "B00958",
+    "Nome": "#ERROR_#N/A",
+    "Lavoro": "QUADRO COMPRESSORI",
+    "Totale": null,
+    "Costo cavi": 1500,
+    "Costo materiale": 3990.091,
+    "Vendita quadro": 7515,
+    "Valore": 2024.9089999999997,
+  }
+  {
+    "Cliente": 49114,
+    "Nome": "S.I.E.R. S.R.L.",
+    "Lavoro": "BAR PAOLINI",
+    "Totale": null,
+    "Costo cavi": 1900,
+    "Costo materiale": 4686.8,
+    "Vendita quadro": 7933,
+    "Valore": 1346.2000000000003,
+  }
+  {
+    "Cliente": 537807,
+    "Nome": "SIMEST 2002 S.A.S  DI PASCUCCI CLAUDIO",
+    "Lavoro": "PIZZERIA 2",
+    "Totale": null,
+    "Costo cavi": 1600,
+    "Costo materiale": 3068.189,
+    "Vendita quadro": 5901,
+    "Valore": 1232.8109999999997,
+  }
+  {
+    "Cliente": 620641,
+    "Nome": "#ERROR_#N/A",
+    "Lavoro": "QUADRO CAVA",
+    "Totale": null,
+    "Costo cavi": 8000,
+    "Costo materiale": 15630.775000000001,
+    "Vendita quadro": 28403,
+    "Valore": 4772.224999999998,
+  }
+  {
+    "Cliente": 547146,
+    "Nome": "SPAMED S.N.C.DI FEDERICI MAURO E FABBRI ROBERTO",
+    "Lavoro": "P&G",
+    "Totale": null,
+    "Costo cavi": 2100,
+    "Costo materiale": 5687.622,
+    "Vendita quadro": 9500,
+    "Valore": 1712.3780000000006,
+  }
+  {
+    "Cliente": 568854,
+    "Nome": "SUSTECH S.R.L.",
+    "Lavoro": 0,
+    "Totale": null,
+    "Costo cavi": 6200,
+    "Costo materiale": 14263.663,
+    "Vendita quadro": 23416,
+    "Valore": 2952.3369999999995,
+  }
+  {
+    "Cliente": 621109,
+    "Nome": "#ERROR_#N/A",
+    "Lavoro": "COFIDIS",
+    "Totale": null,
+    "Costo cavi": 1000,
+    "Costo materiale": 1670.207,
+    "Vendita quadro": 3700,
+    "Valore": 1029.7929999999997,
+  }
+  {
+    "Cliente": 606306,
+    "Nome": "TECNOIMPLANT SRL",
+    "Lavoro": "QE CDZ",
+    "Totale": null,
+    "Costo cavi": 500,
+    "Costo materiale": 1150.356,
+    "Vendita quadro": 2000,
+    "Valore": 349.644,
+  }
+  {
+    "Cliente": 545031,
+    "Nome": "TECNOMAT DI VESCHETTI GIAMPAOLO",
+    "Lavoro": "LABORATORIO COGNITIVO",
+    "Totale": null,
+    "Costo cavi": 900,
+    "Costo materiale": 1995.035,
+    "Vendita quadro": 3525,
+    "Valore": 629.9650000000001,
+  }
+  {
+    "Cliente": 545031,
+    "Nome": "TECNOMAT DI VESCHETTI GIAMPAOLO",
+    "Lavoro": "ROMA",
+    "Totale": null,
+    "Costo cavi": 1300,
+    "Costo materiale": 4115.062,
+    "Vendita quadro": 7052,
+    "Valore": 1636.938,
+  }
+  {
+    "Cliente": 627155,
+    "Nome": "#ERROR_#N/A",
+    "Lavoro": "CHILDERE MUSEUM",
+    "Totale": null,
+    "Costo cavi": 2500,
+    "Costo materiale": 4079.2110000000002,
+    "Vendita quadro": 7900,
+    "Valore": 1320.789,
+  }
+  {
+    "Cliente": 584498,
+    "Nome": "ZP ELETTRONICA SRL",
+    "Lavoro": "BELLE ARTI",
+    "Totale": null,
+    "Costo cavi": 600,
+    "Costo materiale": 1369.326,
+    "Vendita quadro": 2400,
+    "Valore": 430.674,
+  }
+  {
+    "Cliente": 584498,
+    "Nome": "ZP ELETTRONICA SRL",
+    "Lavoro": "FORO ITALICO",
+    "Totale": null,
+    "Costo cavi": 4560,
+    "Costo materiale": 10593.822,
+    "Vendita quadro": 17986,
+    "Valore": 2832.178,
+  }
